@@ -2,6 +2,20 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+This is the Nextjs, MongoDb and Tailwind css project , featuring  user authentication for login and logout. It enabled authenticated users to add, view, update  and remove tasks , with the tasks persisting across sessions.
+
+#Output
+![Screenshot 2024-07-22 140800](https://github.com/user-attachments/assets/893e9ac4-3d3e-465f-b5ae-58896b23947b)
+
+![Screenshot 2024-07-22 140837](https://github.com/user-attachments/assets/6c662381-e823-4988-961c-3e0761325bd4)
+
+![Screenshot 2024-07-22 140507](https://github.com/user-attachments/assets/4f810eb0-667c-4500-ba53-9f14876e5e3c)
+
+![Screenshot 2024-07-22 140601](https://github.com/user-attachments/assets/e1345afb-7bf4-4bf8-96a9-2171c5128b99)
+
+![Screenshot 2024-07-22 140655](https://github.com/user-attachments/assets/f47de00d-e8f5-4ca0-a3fc-710779a5b50e)
+
+
 First, run the development server:
 
 ```bash
